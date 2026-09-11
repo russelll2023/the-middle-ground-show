@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 100" role="img" aria-labelledby="title">
+  <title id="title">The Middle Ground</title>
+  <rect width="520" height="100" fill="none"/>
+  <rect x="0" y="7" width="8" height="86" rx="4" fill="#c92d32"/>
+  <text x="28" y="31" fill="#c92d32" font-family="Arial Narrow,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="7">THE</text>
+  <text x="27" y="79" fill="#fff" font-family="Arial Narrow,Arial,sans-serif" font-size="56" font-weight="900" letter-spacing="-1">MIDDLE GROUND</text>
+</svg>
